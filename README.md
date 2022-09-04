@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Hamza000khan/Hamza000khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A bit about me:
