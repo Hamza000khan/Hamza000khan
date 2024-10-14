@@ -3,7 +3,7 @@
 
 A bit about me:
 
-Final year student at the Integral University
+Computer Graduate
 Software Engineer 3 at Xempla
 I'm also a huge believer in open source.
 
